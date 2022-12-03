@@ -1,14 +1,12 @@
 <h3 align="center">Commercial de formation, et passionné de digital, j'ai fait le choix de me reconvertir en tant que Développeur Back end.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-aloesode" alt="alexandre-aloesode" /></a> </p>
-
 - Je suis actuellement à l'école La Plateforme, dans le programme START, en vue d'obtenir le diplôme RNCP2 de Développeur Web et Web Mobile. [https://laplateforme.io/start/developpeur-web-mobile/](https://laplateforme.io/start/developpeur-web-mobile/)
 
 - 🌱 Je me forme sur les langages suivants: **PHP, Python, Javascript, MySQL, HTML, CSS**
 
-- 👯 Je recherche un poste en alternance dans la région PACA **Développeur Back-End Junior**
+- 👯 Je recherche un poste en alternance dans la région PACA en tant que **Développeur Back-End Junior**
 
-- 📫 Me contacter **alexandrealoesode@gmail.com**
+- 📫 Me contacter: **alexandrealoesode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
