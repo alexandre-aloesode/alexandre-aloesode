@@ -31,7 +31,7 @@ Développeur full-stack à **[La Plateforme](https://laplateforme.io)** (Marseil
 |---|---|---|
 | **SchoolTool** | Application mobile d'intranet scolaire (emplois du temps, notes, absences) avec API et service d'auth OAuth2 séparés. | React Native (Expo), CodeIgniter, MariaDB, Docker |
 | **Covertech** | Boutique e-commerce (catalogue, fiches produit, gestion des commandes) réalisée en équipe lors du hackathon La Plateforme 2023. | JavaScript, PHP |
-| **[Tarot Next.js](https://github.com/alexandre-aloesode/tarot-nextjs)** | Jeu de tarot en ligne. | Next.js, TailwindCSS |
+| **Jeu de tarot** | Jeu de tarot jouable dans le navigateur. | Next.js, TailwindCSS |
 
 ### 🛠️ Stack
 
