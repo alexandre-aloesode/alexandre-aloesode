@@ -1,7 +1,7 @@
 <h2 align="center">Alexandre Aloesode — Développeur Full-Stack</h2>
 <p align="center">PHP · TypeScript · Python — APIs, applications métier et outils internes en production</p>
 
-Développeur full-stack à **[La Plateforme](https://laplateforme.io)** (Marseille) depuis 2023, je conçois et maintiens l'écosystème applicatif interne de l'école : une API centrale, plusieurs intranets et portails, et les services qui les relient. Ancien commercial reconverti, j'aime traduire un besoin métier en outil simple, fiable et utilisé au quotidien.
+Développeur full-stack à L'atelier de La Plateforme (Marseille) depuis 2023, je conçois et maintiens l'écosystème applicatif interne de l'école : une API centrale, plusieurs intranets et portails, et les services qui les relient. Ancien commercial reconverti, j'aime traduire un besoin métier en outil simple, fiable et utilisé au quotidien.
 
 **En chiffres (dépôts pro privés) :** ~2 400 commits et ~600 pull requests mergées sur une quinzaine de services en production.
 
